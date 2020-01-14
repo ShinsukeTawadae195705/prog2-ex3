@@ -4,4 +4,4 @@
 =======
 # shinnsuke tawada
 >>>>>>>  shinnsuketawada
->2順目
+>パッタイセンターがんば
