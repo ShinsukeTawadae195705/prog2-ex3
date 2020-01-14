@@ -2,7 +2,5 @@
 <<<<<<< HEAD
 # 2人目
 =======
-# 3人目　shinnsuke tawada
+# shinnsuke tawada
 >>>>>>>  shinnsuketawada
-
->2順目
